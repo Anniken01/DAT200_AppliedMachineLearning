@@ -1,221 +1,221 @@
 index,Diagnosis
-0,Healthy
-1,Healthy
-2,Healthy
-3,Healthy
-4,Healthy
-5,Healthy
-6,Healthy
-7,Chirrosis
-8,Healthy
-9,Healthy
-10,Healthy
-11,Hepatitis
-12,Healthy
-13,Healthy
-14,Hepatitis
-15,Healthy
-16,Healthy
-17,Chirrosis
-18,Healthy
-19,Healthy
-20,Healthy
-21,Hepatitis
-22,Healthy
-23,Hepatitis
-24,Healthy
-25,Healthy
-26,Healthy
-27,Healthy
-28,Healthy
-29,Healthy
-30,Hepatitis
-31,Healthy
-32,Hepatitis
-33,Healthy
-34,Hepatitis
-35,Hepatitis
-36,Healthy
-37,Healthy
-38,Hepatitis
-39,Healthy
-40,Hepatitis
-41,Healthy
-42,Healthy
-43,Hepatitis
-44,Healthy
-45,Healthy
-46,Chirrosis
-47,Healthy
-48,Healthy
-49,Chirrosis
-50,Healthy
-51,Healthy
-52,Healthy
-53,Healthy
-54,Healthy
-55,Healthy
-56,Healthy
-57,Healthy
-58,Healthy
-59,Chirrosis
-60,Chirrosis
-61,Healthy
-62,Hepatitis
-63,Healthy
-64,Healthy
-65,Healthy
-66,Chirrosis
-67,Healthy
-68,Hepatitis
-69,Healthy
-70,Healthy
-71,Hepatitis
-72,Healthy
-73,Healthy
-74,Healthy
-75,Healthy
-76,Healthy
-77,Healthy
-78,Healthy
-79,Healthy
-80,Healthy
-81,Healthy
-82,Healthy
-83,Healthy
-84,Healthy
-85,Hepatitis
-86,Chirrosis
-87,Healthy
-88,Healthy
-89,Healthy
-90,Healthy
-91,Healthy
-92,Hepatitis
-93,Chirrosis
-94,Healthy
-95,Healthy
-96,Hepatitis
-97,Healthy
-98,Healthy
-99,Healthy
-100,Healthy
-101,Healthy
+316,Healthy
+97,Fatty Liver Disease
+314,Healthy
+453,Chirrosis
+604,Chirrosis
+694,Healthy
+428,Healthy
+406,Chirrosis
+321,Autoimmune Liver Diseases
 102,Healthy
-103,Hepatitis
-104,Hepatitis
-105,Hepatitis
-106,Healthy
-107,Hepatitis
-108,Healthy
-109,Healthy
-110,Hepatitis
-111,Healthy
-112,Healthy
-113,Hepatitis
-114,Healthy
-115,Healthy
-116,Healthy
-117,Hepatitis
-118,Hepatitis
-119,Hepatitis
-120,Healthy
-121,Healthy
-122,Healthy
-123,Healthy
-124,Healthy
-125,Hepatitis
-126,Healthy
-127,Healthy
-128,Healthy
-129,Hepatitis
+549,Healthy
+6,Hepatitis
+367,Healthy
+127,Fatty Liver Disease
+674,Hepatitis
+281,Chirrosis
+505,Healthy
+638,Chirrosis
+405,Healthy
 130,Healthy
-131,Healthy
-132,Hepatitis
-133,Healthy
-134,Hepatitis
-135,Hepatitis
-136,Healthy
-137,Healthy
-138,Healthy
-139,Healthy
-140,Healthy
-141,Healthy
-142,Hepatitis
-143,Healthy
-144,Hepatitis
-145,Hepatitis
-146,Hepatitis
-147,Healthy
-148,Healthy
-149,Hepatitis
-150,Hepatitis
-151,Hepatitis
-152,Hepatitis
-153,Healthy
-154,Hepatitis
-155,Healthy
-156,Hepatitis
-157,Healthy
-158,Healthy
-159,Healthy
-160,Healthy
-161,Healthy
-162,Healthy
-163,Hepatitis
-164,Healthy
-165,Hepatitis
-166,Healthy
-167,Hepatitis
-168,Healthy
-169,Healthy
-170,Healthy
-171,Healthy
-172,Healthy
-173,Healthy
-174,Healthy
-175,Healthy
-176,Healthy
-177,Chirrosis
-178,Healthy
-179,Healthy
-180,Healthy
-181,Healthy
-182,Healthy
-183,Hepatitis
-184,Hepatitis
-185,Healthy
-186,Hepatitis
-187,Hepatitis
-188,Healthy
-189,Healthy
-190,Hepatitis
+541,Autoimmune Liver Diseases
+480,Drug-induced Liver Injury
+452,Hepatitis
+393,Hepatitis
+95,Fatty Liver Disease
+343,Healthy
+2,Healthy
+65,Healthy
+96,Healthy
+10,Healthy
+92,Drug-induced Liver Injury
+696,Fatty Liver Disease
+247,Autoimmune Liver Diseases
+488,Chirrosis
+603,Drug-induced Liver Injury
+116,Drug-induced Liver Injury
+462,Autoimmune Liver Diseases
 191,Healthy
-192,Hepatitis
-193,Hepatitis
-194,Healthy
-195,Healthy
-196,Hepatitis
-197,Healthy
-198,Healthy
-199,Hepatitis
-200,Hepatitis
-201,Hepatitis
-202,Healthy
-203,Hepatitis
-204,Hepatitis
-205,Hepatitis
-206,Healthy
-207,Healthy
-208,Hepatitis
-209,Hepatitis
-210,Healthy
+584,Hepatitis
+591,Healthy
+267,Hepatitis
+356,Healthy
 211,Healthy
-212,Healthy
+221,Autoimmune Liver Diseases
+236,Healthy
+659,Healthy
+471,Chirrosis
+91,Healthy
+109,Healthy
+553,Chirrosis
+687,Healthy
+664,Autoimmune Liver Diseases
+32,Fatty Liver Disease
 213,Hepatitis
-214,Hepatitis
-215,Chirrosis
-216,Healthy
-217,Healthy
-218,Healthy
-219,Healthy
+112,Healthy
+192,Fatty Liver Disease
+148,Healthy
+568,Healthy
+9,Healthy
+658,Liver Cancer
+455,Liver Cancer
+593,Healthy
+208,Hepatitis
+86,Healthy
+293,Drug-induced Liver Injury
+685,Healthy
+169,Liver Cancer
+467,Healthy
+329,Hepatitis
+266,Healthy
+98,Healthy
+512,Hepatitis
+313,Healthy
+594,Autoimmune Liver Diseases
+108,Healthy
+201,Fatty Liver Disease
+94,Healthy
+292,Healthy
+283,Healthy
+83,Autoimmune Liver Diseases
+644,Healthy
+77,Healthy
+508,Healthy
+605,Drug-induced Liver Injury
+689,Healthy
+619,Hepatitis
+36,Chirrosis
+669,Healthy
+181,Healthy
+0,Healthy
+11,Fatty Liver Disease
+643,Fatty Liver Disease
+22,Hepatitis
+469,Chirrosis
+335,Healthy
+115,Healthy
+372,Drug-induced Liver Injury
+170,Healthy
+296,Healthy
+250,Healthy
+300,Liver Cancer
+506,Fatty Liver Disease
+18,Healthy
+690,Hepatitis
+196,Fatty Liver Disease
+15,Drug-induced Liver Injury
+424,Autoimmune Liver Diseases
+46,Hepatitis
+64,Autoimmune Liver Diseases
+387,Hepatitis
+55,Hepatitis
+119,Healthy
+586,Drug-induced Liver Injury
+408,Hepatitis
+348,Liver Cancer
+637,Healthy
+702,Hepatitis
+515,Liver Cancer
+340,Liver Cancer
+464,Drug-induced Liver Injury
+425,Autoimmune Liver Diseases
+639,Healthy
+261,Healthy
+268,Healthy
+648,Healthy
+198,Drug-induced Liver Injury
+697,Healthy
+226,Hepatitis
+507,Healthy
+85,Hepatitis
+382,Healthy
+178,Fatty Liver Disease
+625,Hepatitis
+225,Fatty Liver Disease
+159,Hepatitis
+499,Hepatitis
+278,Hepatitis
+472,Drug-induced Liver Injury
+486,Healthy
+474,Fatty Liver Disease
+693,Healthy
+628,Fatty Liver Disease
+487,Hepatitis
+288,Healthy
+385,Drug-induced Liver Injury
+360,Drug-induced Liver Injury
+570,Hepatitis
+561,Healthy
+19,Drug-induced Liver Injury
+545,Hepatitis
+66,Hepatitis
+436,Hepatitis
+390,Autoimmune Liver Diseases
+482,Hepatitis
+423,Autoimmune Liver Diseases
+327,Healthy
+654,Hepatitis
+238,Autoimmune Liver Diseases
+26,Healthy
+546,Healthy
+49,Fatty Liver Disease
+457,Hepatitis
+232,Autoimmune Liver Diseases
+223,Hepatitis
+254,Fatty Liver Disease
+403,Liver Cancer
+197,Healthy
+161,Drug-induced Liver Injury
+460,Healthy
+688,Healthy
+33,Fatty Liver Disease
+142,Healthy
+662,Chirrosis
+222,Healthy
+683,Fatty Liver Disease
+668,Hepatitis
+67,Healthy
+319,Chirrosis
+25,Hepatitis
+17,Healthy
+456,Fatty Liver Disease
+80,Healthy
+478,Healthy
+352,Drug-induced Liver Injury
+623,Hepatitis
+320,Fatty Liver Disease
+120,Liver Cancer
+230,Hepatitis
+396,Hepatitis
+557,Autoimmune Liver Diseases
+23,Autoimmune Liver Diseases
+353,Chirrosis
+381,Hepatitis
+517,Hepatitis
+5,Fatty Liver Disease
+146,Healthy
+54,Autoimmune Liver Diseases
+491,Chirrosis
+461,Healthy
+16,Hepatitis
+57,Drug-induced Liver Injury
+265,Hepatitis
+522,Healthy
+3,Drug-induced Liver Injury
+587,Hepatitis
+304,Drug-induced Liver Injury
+72,Fatty Liver Disease
+251,Healthy
+676,Hepatitis
+138,Autoimmune Liver Diseases
+465,Hepatitis
+383,Fatty Liver Disease
+30,Healthy
+306,Hepatitis
+530,Drug-induced Liver Injury
+27,Chirrosis
+7,Fatty Liver Disease
+231,Healthy
+59,Autoimmune Liver Diseases
+136,Healthy
